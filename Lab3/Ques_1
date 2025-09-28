@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Grades</title>
+</head>
+<body>
+  <h1>Student Grades</h1>
+
+  <table border="1">
+    <tr>
+      <th>Name</th>
+      <th>Math</th>
+      <th>Science</th>
+      <th>Punjabi</th>
+    </tr>
+    <tr>
+      <td>Vansh</td>
+      <td>91</td>
+      <td>95</td>
+      <td>83</td>
+    </tr>
+    <tr>
+      <td>Harsh</td>
+      <td>78</td>
+      <td>84</td>
+      <td>80</td>
+    </tr>
+    <tr>
+      <td>Yash</td>
+      <td>92</td>
+      <td>89</td>
+      <td>95</td>
+    </tr>
+  </table>
+
+</body>
+</html>

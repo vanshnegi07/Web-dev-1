@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+</head>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <section>
+      <article>
+        <h2>About Me</h2>
+        <p>Hello! My name is Vansh Negi. I studied in Class 12B at school and am now pursuing 
+        BTech in Computer Science (AI & ML specialization) at KR Mangalam University. 
+        I am passionate about learning new technologies, improving my skills, and exploring the digital world.</p>
+      </article>
+
+      <article>
+        <h2>My Interests</h2>
+        <p>I enjoy coding in languages like Python and Java. 
+        Apart from academics, I am also interested in music, especially rock, metal, and R&B. 
+        </p>
+      </article>
+
+      <article>
+        <h2>Future Goals</h2>
+        <p>My short-term goal is to become skilled in programming, AI, and ML while excelling in my university studies. 
+        In the future, I aspire to secure a great job in tech, work on innovative AI projects, 
+        and continue improving myself both personally and professionally.</p>
+      </article>
+    </section>
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>Vansh Negi. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
